@@ -8,6 +8,6 @@ py -3 - venv env
 env\scripts\activate
 pip install flask
 
-Finally to run the app
+Finally to run the app:
 set FLASK_APP=app.py
 flask run
